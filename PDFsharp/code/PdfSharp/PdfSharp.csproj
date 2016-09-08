@@ -122,6 +122,7 @@
     <Compile Include="!internal\Directives.cs" />
     <Compile Include="PdfSharp.Drawing.BarCodes\DataMatrixImage.cs" />
     <Compile Include="PdfSharp.Drawing.Layout\enums\XParagraphAlignment.cs" />
+    <Compile Include="PdfSharp.Drawing.Layout\XTextFormatterEx.cs" />
     <Compile Include="PdfSharp.Drawing.Pdf\enums\DirtyFlags.cs" />
     <Compile Include="PdfSharp.Drawing.Pdf\enums\StreamMode.cs" />
     <Compile Include="PdfSharp.Drawing\enums\PathStart.cs" />
